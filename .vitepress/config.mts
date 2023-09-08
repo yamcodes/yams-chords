@@ -25,6 +25,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
+    ],
+  },
+  srcExclude: [
+    // exclude the README.md in the root folder, that's only for GitHub
+    "./README.md"
+  ],
 });
