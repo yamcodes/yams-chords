@@ -1,7 +1,8 @@
 {
   "name": "yams-chords",
+  "title": "Yam's Chords",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chords for songs Yam likes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -1,9 +1,11 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
+import { title, name, description } from '../package.json';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Yam's Chords",
-  description: "Chords for songs Yam likes",
+  title,
+  description,
+  base: `/${name}/`,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -25,4 +27,4 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   }
-})
+});
