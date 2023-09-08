@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/yamyam263/yams-chords/compare/v1.1.0...v1.2.0) (2023-09-08)
+
+
+### Features
+
+* CONTRIBUTING.md ([683c91c](https://github.com/yamyam263/yams-chords/commit/683c91c3953b050702345b060a270a144b6f9348))
+
 # [1.1.0](https://github.com/yamyam263/yams-chords/compare/v1.0.0...v1.1.0) (2023-09-08)
 
 
