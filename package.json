@@ -3,6 +3,7 @@
   "title": "Yam's Chords",
   "version": "1.0.0",
   "description": "Chords for songs Yam likes",
+  "repository": "https://github.com/yamyam263/yams-chords",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

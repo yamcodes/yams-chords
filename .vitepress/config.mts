@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress';
-import { title, name, description } from '../package.json';
+import { title, name, description, repository } from '../package.json';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -25,13 +25,18 @@ export default defineConfig({
         ]
       }
     ],
+    editLink: {
+      text: "Edit this page on GitHub",
+      pattern: `${repository}/edit/main/:path`,
+    },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: repository }
     ],
   },
   srcExclude: [
     // exclude the README.md in the root folder, that's only for GitHub
     "./README.md"
   ],
+  lastUpdated: true,
 });
