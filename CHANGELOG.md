@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/yamyam263/yams-chords/compare/v1.0.0...v1.1.0) (2023-09-08)
+
+
+### Features
+
+* **search:** enable detailedView by default ([2a252cd](https://github.com/yamyam263/yams-chords/commit/2a252cdc68d24ecf644c88d31e50633729c97327))
+
 # 1.0.0 (2023-09-08)
 
 
