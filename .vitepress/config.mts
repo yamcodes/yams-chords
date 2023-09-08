@@ -25,6 +25,16 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
+        ],
+        collapsed: false
+      },
+      {
+        text: 'Contributing',
+        // TODO: we can use auto-generated sidebar for this
+        items: [
+            { text: 'Overview', link: '/contributing/' },
+            { text: 'Pull Requests', link: '/contributing/pull-requests' },
+            { text: 'Commit Message Convention', link: '/contributing/commit-message-convention' },
         ]
       }
     ],
