@@ -5,7 +5,6 @@ layout: home
 hero:
   name: "Yam's Chords"
   text: "Chords for songs Yam likes"
-  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
