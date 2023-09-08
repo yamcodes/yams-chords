@@ -13,7 +13,10 @@ export default defineConfig({
       { text: 'Examples', link: '/markdown-examples' }
     ],
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        detailedView: true
+      }
     },
 
     sidebar: [
