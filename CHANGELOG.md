@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/yamyam263/yams-chords/compare/v1.2.0...v1.3.0) (2023-09-09)
+
+
+### Features
+
+* migrate to bun ([d745e25](https://github.com/yamyam263/yams-chords/commit/d745e2510c211ff19d5426d4e5751377e097f4b2))
+
 # [1.2.0](https://github.com/yamyam263/yams-chords/compare/v1.1.0...v1.2.0) (2023-09-08)
 
 
