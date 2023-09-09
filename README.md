@@ -1,11 +1,7 @@
-# Yam's Chords
-Chords for songs Yam likes
+# [Yam's Chords](https://yamyam263.github.io/yams-chords/)
+Chords for songs Yam likes to play 🎸
 
 ---
-
-## Documentation
-
-To check out docs, visit [yamyam263.github.io/yams-chords](https://yamyam263.github.io/yams-chords/).
 
 ## Changelog
 
